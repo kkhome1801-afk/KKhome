@@ -40,3 +40,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore large file exceeding GitHub 100MB limit
+VBan/89_2026_TT-BTC_714011.docx
+*.bin
