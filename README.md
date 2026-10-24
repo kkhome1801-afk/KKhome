@@ -20,6 +20,27 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Git Workflow & Deployment theo Token .env
+
+Dự án hỗ trợ quản lý token GitHub qua file `.env` và cung cấp các script tự động hóa pull / push / deploy:
+
+- Xem hướng dẫn chi tiết tại: [HUONG_DAN_DEPLOY.md](./HUONG_DAN_DEPLOY.md)
+
+### Các lệnh nhanh (PowerShell):
+```powershell
+# Kéo code mới nhất từ main
+.\scripts\git-sync.ps1 -Pull
+
+# Commit và đẩy code lên GitHub
+.\scripts\git-sync.ps1 -Push -Message "Mô tả nội dung commit"
+
+# Kiểm tra lint & deploy lên nhánh main
+.\scripts\git-sync.ps1 -Deploy -Message "Deploy release v1.0.1"
+
+# Cập nhật remote theo token mới trong .env
+.\scripts\git-sync.ps1 -SyncRemote
+```
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
