@@ -44,7 +44,7 @@ export function Navbar({ user, isAdmin }: NavbarProps) {
           <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-gray-600">
             <Link href="/templates" className="hover:text-gray-900 transition-colors">Templates</Link>
             <Link href="/packages" className="hover:text-gray-900 transition-colors">Gói mua</Link>
-            <Link href="/vbpl/thong-tu-89-2026" className="hover:text-gray-900 transition-colors">Văn bản pháp luật</Link>
+            <Link href="/vbpl" className="hover:text-gray-900 transition-colors">Văn bản pháp luật</Link>
           </nav>
 
           <div className="flex items-center gap-3">
