@@ -1,0 +1,984 @@
+[
+  {
+    "slug": "tt89",
+    "title": "TT 89/2026/TT-BTC — Quy chế Quản lý Tài chính & Kế toán",
+    "shortTitle": "TT 89/2026",
+    "description": "Thông tư số 89/2026/TT-BTC ban hành ngày 24/09/2026, quy định toàn diện 10 Chương, 101 Điều về quản lý tài chính, chế độ chứng từ kế toán, biểu mẫu và thủ tục.",
+    "effectiveDate": "2026-10-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Chế độ kế toán",
+      "Quản lý tài chính"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 8
+  },
+  {
+    "slug": "luat-67",
+    "title": "Luật 67/2025/QH15 — Thuế Thu nhập Doanh nghiệp",
+    "shortTitle": "Luật 67/2025",
+    "description": "Luật Thuế TNDN mới, hiệu lực 01/10/2025. Quy định thuế suất, chi phí được trừ, ưu đãi thuế.",
+    "effectiveDate": "2025-10-01",
+    "docType": "Luật",
+    "categories": [
+      "Thuế TNDN"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 10
+  },
+  {
+    "slug": "nd320",
+    "title": "NĐ 320/2025/NĐ-CP — Hướng dẫn chi tiết Luật Thuế TNDN",
+    "shortTitle": "NĐ 320/2025",
+    "description": "Nghị định quy định chi tiết thi hành Luật Thuế TNDN 67/2025, hiệu lực 15/12/2025. 26 điều, 6 chương.",
+    "effectiveDate": "2025-12-15",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế TNDN"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "tt20",
+    "title": "TT 20/2026/TT-BTC — Hướng dẫn Luật TNDN & NĐ 320/2025",
+    "shortTitle": "TT 20/2026",
+    "description": "Thông tư hướng dẫn hồ sơ/thủ tục theo Luật 67 và NĐ 320, hiệu lực 12/03/2026. 10 điều.",
+    "effectiveDate": "2026-03-12",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế TNDN"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "tt99",
+    "title": "TT 99/2025/TT-BTC — Chế độ Kế toán Doanh nghiệp",
+    "shortTitle": "TT 99/2025",
+    "description": "Thông tư kế toán DN thay thế TT200/2014, hiệu lực 01/01/2026. Gồm hệ thống TK, biểu mẫu, sổ sách.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Chế độ kế toán"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 5
+  },
+  {
+    "slug": "tt133",
+    "title": "TT 133/2016/TT-BTC — Kế toán DN Nhỏ và Vừa",
+    "shortTitle": "TT 133/2016",
+    "description": "Chế độ kế toán cho DN nhỏ và vừa, hiệu lực 01/01/2017. Gồm 93 điều: hệ thống TK, BCTC, chứng từ, sổ sách.",
+    "effectiveDate": "2017-01-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Chế độ kế toán"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "tt58",
+    "title": "TT 58/2026/TT-BTC — Kế toán DN Siêu nhỏ",
+    "shortTitle": "TT 58/2026",
+    "description": "Chế độ kế toán đơn giản hóa cho DN siêu nhỏ, hiệu lực 01/07/2026. Thay thế TT132/2018.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Chế độ kế toán"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 5
+  },
+  {
+    "slug": "tt152",
+    "title": "TT 152/2025/TT-BTC — Kế toán Hộ Kinh doanh",
+    "shortTitle": "TT 152/2025",
+    "description": "Chế độ kế toán cho hộ kinh doanh và cá nhân kinh doanh, hiệu lực 01/01/2026. Thay thế TT88/2021.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Chế độ kế toán",
+      "HKD, CNKD"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "luat-48",
+    "title": "Luật 48/2024/QH15 — Luật Thuế Giá trị gia tăng",
+    "shortTitle": "Luật 48/2024",
+    "description": "Luật Thuế GTGT, hiệu lực 01/07/2025. Đối tượng chịu/không chịu thuế, thuế suất, khấu trừ, hoàn thuế.",
+    "effectiveDate": "2025-07-01",
+    "docType": "Luật",
+    "categories": [
+      "Thuế GTGT"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "luat-149",
+    "title": "Luật 149/2025/QH15 — Sửa đổi, bổ sung Luật Thuế GTGT",
+    "shortTitle": "Luật 149/2025",
+    "description": "Sửa đổi, bổ sung một số điều của Luật Thuế GTGT 48/2024.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Luật",
+    "categories": [
+      "Thuế GTGT"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "luat-109",
+    "title": "Luật 109/2025/QH15 — Luật Thuế Thu nhập cá nhân",
+    "shortTitle": "Luật 109/2025",
+    "description": "Luật Thuế TNCN (mới), hiệu lực 01/07/2026. Thu nhập chịu thuế, biểu thuế, giảm trừ, quyết toán.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Luật",
+    "categories": [
+      "Thuế TNCN"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "luat-09",
+    "title": "Luật 09/2026/QH16 — Sửa đổi Luật Thuế TNCN, GTGT",
+    "shortTitle": "Luật 09/2026",
+    "description": "Sửa đổi, bổ sung một số điều của Luật Thuế TNCN, Thuế GTGT và một số luật thuế khác.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Luật",
+    "categories": [
+      "Thuế TNDN",
+      "Thuế GTGT",
+      "Thuế TNCN",
+      "Thuế TTĐB"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "luat-108",
+    "title": "Luật 108/2025/QH15 — Luật Quản lý thuế",
+    "shortTitle": "Luật 108/2025",
+    "description": "Luật Quản lý thuế (mới), hiệu lực 01/07/2026. Đăng ký, kê khai, nộp, hoàn, thanh tra, cưỡng chế thuế.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Luật",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "luat-38",
+    "title": "Luật 38/2019/QH14 — Luật Quản lý thuế",
+    "shortTitle": "Luật 38/2019",
+    "description": "Luật Quản lý thuế hiện hành (2019), 152 điều. Được thay thế bởi Luật 108/2025 từ 01/07/2026.",
+    "effectiveDate": "2020-07-01",
+    "docType": "Luật",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "nd181",
+    "title": "NĐ 181/2025/NĐ-CP — Hướng dẫn Luật Thuế GTGT",
+    "shortTitle": "NĐ 181/2025",
+    "description": "Nghị định quy định chi tiết thi hành Luật Thuế GTGT 48/2024, hiệu lực 01/07/2025.",
+    "effectiveDate": "2025-07-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế GTGT"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "nd68",
+    "title": "NĐ 68/2026/NĐ-CP — Chính sách thuế và quản lý thuế",
+    "shortTitle": "NĐ 68/2026",
+    "description": "Nghị định về chính sách thuế và quản lý thuế, hiệu lực kể từ ngày ký (05/03/2026).",
+    "effectiveDate": "2026-03-05",
+    "docType": "Nghị định",
+    "categories": [
+      "Quản lý thuế",
+      "HKD, CNKD"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd144",
+    "title": "NĐ 144/2026/NĐ-CP — Sửa đổi một số Nghị định về thuế",
+    "shortTitle": "NĐ 144/2026",
+    "description": "Sửa đổi, bổ sung một số điều của các Nghị định về thuế.",
+    "effectiveDate": "2026-06-20",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế GTGT"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "nd359",
+    "title": "NĐ 359/2025/NĐ-CP — Sửa đổi một số Nghị định về thuế",
+    "shortTitle": "NĐ 359/2025",
+    "description": "Sửa đổi, bổ sung một số điều của các Nghị định về thuế.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế GTGT"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "tt69",
+    "title": "TT 69/2025/TT-BTC — Hướng dẫn Luật Thuế GTGT",
+    "shortTitle": "TT 69/2025",
+    "description": "Thông tư quy định chi tiết một số điều của Luật Thuế GTGT và NĐ 181/2025, hiệu lực 01/07/2025.",
+    "effectiveDate": "2025-07-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế GTGT"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "tt18",
+    "title": "TT 18/2026/TT-BTC — Hồ sơ, thủ tục quản lý thuế",
+    "shortTitle": "TT 18/2026",
+    "description": "Thông tư quy định hồ sơ, thủ tục quản lý thuế, hiệu lực kể từ ngày ký (05/03/2026).",
+    "effectiveDate": "2026-03-05",
+    "docType": "Thông tư",
+    "categories": [
+      "Quản lý thuế",
+      "HKD, CNKD"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "luat-66",
+    "title": "Luật 66/2025/QH15 — Luật Thuế Tiêu thụ đặc biệt",
+    "shortTitle": "Luật 66/2025",
+    "description": "Luật Thuế TTĐB, hiệu lực 01/01/2026. Đối tượng chịu thuế, giá tính thuế, thuế suất, hoàn/giảm thuế.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Luật",
+    "categories": [
+      "Thuế TTĐB"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 5
+  },
+  {
+    "slug": "nd360",
+    "title": "NĐ 360/2025/NĐ-CP — Hướng dẫn Luật Thuế TTĐB",
+    "shortTitle": "NĐ 360/2025",
+    "description": "Nghị định quy định chi tiết thi hành Luật Thuế TTĐB 66/2025, hiệu lực 01/01/2026.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế TTĐB"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "tt158",
+    "title": "TT 158/2025/TT-BTC — Hướng dẫn chi tiết NĐ 360 (TTĐB)",
+    "shortTitle": "TT 158/2025",
+    "description": "Thông tư quy định chi tiết một số điều của NĐ 360/2025 về thuế TTĐB, hiệu lực 01/01/2026. Có biểu mẫu hồ sơ.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế TTĐB"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd134",
+    "title": "NĐ 134/2016/NĐ-CP — Hướng dẫn Luật Thuế Xuất khẩu, Nhập khẩu",
+    "shortTitle": "NĐ 134/2016",
+    "description": "Nghị định quy định chi tiết và biện pháp thi hành Luật Thuế XNK 107/2016. Đối tượng chịu thuế, miễn/giảm/hoàn thuế XNK.",
+    "effectiveDate": "2016-09-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 6
+  },
+  {
+    "slug": "nd18",
+    "title": "NĐ 18/2021/NĐ-CP — Sửa đổi, bổ sung NĐ 134/2016 (Thuế XNK)",
+    "shortTitle": "NĐ 18/2021",
+    "description": "Sửa đổi, bổ sung một số điều của NĐ 134/2016 về thuế xuất khẩu, nhập khẩu, hiệu lực 25/04/2021.",
+    "effectiveDate": "2021-04-25",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "nd182",
+    "title": "NĐ 182/2025/NĐ-CP — Sửa đổi, bổ sung NĐ 134/2016 (Thuế XNK)",
+    "shortTitle": "NĐ 182/2025",
+    "description": "Sửa đổi, bổ sung một số điều của NĐ 134/2016 về thuế xuất khẩu, nhập khẩu, hiệu lực 01/07/2025.",
+    "effectiveDate": "2025-07-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "tt06",
+    "title": "TT 06/2021/TT-BTC — Hướng dẫn quản lý thuế hàng hóa XNK",
+    "shortTitle": "TT 06/2021",
+    "description": "Thông tư hướng dẫn thi hành về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu, hiệu lực 08/03/2021.",
+    "effectiveDate": "2021-03-08",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "tt39",
+    "title": "TT 39/2018/TT-BTC — Sửa đổi TT 38/2015 (thủ tục hải quan)",
+    "shortTitle": "TT 39/2018",
+    "description": "Sửa đổi, bổ sung TT 38/2015 về thủ tục hải quan, kiểm tra, giám sát hải quan, thuế XNK, hiệu lực 05/06/2018.",
+    "effectiveDate": "2018-06-05",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "blld-45",
+    "title": "BLLD 45/2019/QH14 — Bộ Luật Lao động",
+    "shortTitle": "BLLD 45/2019",
+    "description": "Bộ Luật Lao động 2019, hiệu lực 01/01/2021. 220 điều, 17 chương: hợp đồng lao động, tiền lương, thời giờ làm việc, ATVSLD, GQTCLĐ.",
+    "effectiveDate": "2021-01-01",
+    "docType": "Luật",
+    "categories": [
+      "Nhân sự - Lao động"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 6
+  },
+  {
+    "slug": "luat-74",
+    "title": "Luật 74/2025/QH15 — Luật Việc làm",
+    "shortTitle": "Luật 74/2025",
+    "description": "Luật Việc làm (mới), hiệu lực 01/01/2026. Chính sách hỗ trợ việc làm, BHTN, đăng ký lao động, thị trường lao động.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Luật",
+    "categories": [
+      "Bảo hiểm - Công đoàn"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd145",
+    "title": "NĐ 145/2020/NĐ-CP — Hướng dẫn Bộ Luật Lao động",
+    "shortTitle": "NĐ 145/2020",
+    "description": "Nghị định hướng dẫn thi hành BLLD 45/2019 về điều kiện lao động và quan hệ lao động, hiệu lực 01/02/2021.",
+    "effectiveDate": "2021-02-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Nhân sự - Lao động"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd293",
+    "title": "NĐ 293/2025/NĐ-CP — Mức lương tối thiểu vùng",
+    "shortTitle": "NĐ 293/2025",
+    "description": "Quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động, hiệu lực 01/01/2026.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Nhân sự - Lao động"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "luat-41",
+    "title": "Luật 41/2024/QH15 — Luật Bảo hiểm xã hội",
+    "shortTitle": "Luật 41/2024",
+    "description": "Luật BHXH (mới), hiệu lực 01/07/2025. 141 điều, 11 chương: BHXH bắt buộc, BHXH tự nguyện, BHTN, chế độ hưu trí, tử tuất.",
+    "effectiveDate": "2025-07-01",
+    "docType": "Luật",
+    "categories": [
+      "Bảo hiểm - Công đoàn"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "luat-25",
+    "title": "Luật 25/2008/QH12 — Luật Bảo hiểm y tế",
+    "shortTitle": "Luật 25/2008",
+    "description": "Luật Bảo hiểm y tế, hiệu lực 01/07/2009. Đối tượng tham gia, mức đóng, quyền lợi BHYT, tổ chức khám chữa bệnh.",
+    "effectiveDate": "2009-07-01",
+    "docType": "Luật",
+    "categories": [
+      "Bảo hiểm - Công đoàn"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "qd595",
+    "title": "QĐ 595/QĐ-BHXH — Quy trình thu BHXH, BHYT, BHTN",
+    "shortTitle": "QĐ 595/BHXH",
+    "description": "Ban hành Quy trình thu BHXH, BHYT, BHTN, TNLĐ-BNN, hiệu lực 01/05/2017. 54 điều, 8 chương: đăng ký tham gia, đóng, truy thu, hoàn trả.",
+    "effectiveDate": "2017-05-01",
+    "docType": "Khác",
+    "categories": [
+      "Bảo hiểm - Công đoàn"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "qd505",
+    "title": "QĐ 505/QĐ-BHXH — Sửa đổi Quy trình thu BHXH",
+    "shortTitle": "QĐ 505/BHXH",
+    "description": "Sửa đổi, bổ sung một số điều của Quy trình thu BHXH, BHYT, BHTN ban hành theo QĐ 595/2017, hiệu lực 27/03/2020.",
+    "effectiveDate": "2020-03-27",
+    "docType": "Khác",
+    "categories": [
+      "Bảo hiểm - Công đoàn"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "luat-50",
+    "title": "Luật 50/2024/QH15 — Luật Công đoàn",
+    "shortTitle": "Luật 50/2024",
+    "description": "Luật Công đoàn, hiệu lực 01/07/2025. 37 điều, 6 chương: tổ chức, quyền, nghĩa vụ, tài chính công đoàn.",
+    "effectiveDate": "2025-07-01",
+    "docType": "Luật",
+    "categories": [
+      "Bảo hiểm - Công đoàn"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "nd105",
+    "title": "NĐ 105/2026/NĐ-CP — Tài chính công đoàn",
+    "shortTitle": "NĐ 105/2026",
+    "description": "Quy định chi tiết và hướng dẫn thi hành Luật Công đoàn về tài chính công đoàn, hiệu lực 16/05/2026.",
+    "effectiveDate": "2026-05-16",
+    "docType": "Nghị định",
+    "categories": [
+      "Bảo hiểm - Công đoàn"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd191",
+    "title": "NĐ 191/2013/NĐ-CP — Tài chính công đoàn (cũ)",
+    "shortTitle": "NĐ 191/2013",
+    "description": "Quy định chi tiết về tài chính công đoàn, hiệu lực 10/01/2014. Được thay thế bởi NĐ 105/2026 từ 16/05/2026.",
+    "effectiveDate": "2014-01-10",
+    "docType": "Nghị định",
+    "categories": [
+      "Bảo hiểm - Công đoàn"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd123",
+    "title": "NĐ 123/2020/NĐ-CP — Hóa đơn, chứng từ",
+    "shortTitle": "NĐ 123/2020",
+    "description": "Quy định về hóa đơn, chứng từ, hiệu lực 01/07/2022. Hóa đơn điện tử, hóa đơn giấy, chứng từ khấu trừ thuế TNCN.",
+    "effectiveDate": "2022-07-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "nd70",
+    "title": "NĐ 70/2025/NĐ-CP — Sửa đổi NĐ 123/2020 về hóa đơn",
+    "shortTitle": "NĐ 70/2025",
+    "description": "Sửa đổi, bổ sung một số điều của NĐ 123/2020 về hóa đơn, chứng từ, hiệu lực 01/06/2025.",
+    "effectiveDate": "2025-06-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "nd253",
+    "title": "NĐ 253/2026/NĐ-CP — Hướng dẫn thi hành Luật Thuế TNCN",
+    "shortTitle": "NĐ 253/2026",
+    "description": "Quy định chi tiết và biện pháp thi hành Luật Thuế TNCN 109/2025, hiệu lực 01/07/2026. Thu nhập chịu thuế, miễn/giảm thuế, căn cứ tính thuế, khấu trừ, quyết toán, hoàn thuế.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế TNCN"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd254",
+    "title": "NĐ 254/2026/NĐ-CP — Hóa đơn điện tử, chứng từ điện tử",
+    "shortTitle": "NĐ 254/2026",
+    "description": "Quy định chi tiết thi hành Luật Quản lý thuế 108/2025 về hóa đơn điện tử, chứng từ điện tử, hiệu lực 01/07/2026. Thay thế toàn bộ NĐ 123/2020 và NĐ 70/2025.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "nd132",
+    "title": "NĐ 132/2020/NĐ-CP — Quản lý thuế với DN có giao dịch liên kết",
+    "shortTitle": "NĐ 132/2020",
+    "description": "Quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết (chuyển giá), hiệu lực 20/12/2020. Phân tích so sánh độc lập, chi phí lãi vay, hồ sơ kê khai, báo cáo lợi nhuận liên quốc gia.",
+    "effectiveDate": "2020-12-20",
+    "docType": "Nghị định",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "nd20",
+    "title": "NĐ 20/2025/NĐ-CP — Sửa đổi NĐ 132/2020 về giao dịch liên kết",
+    "shortTitle": "NĐ 20/2025",
+    "description": "Sửa đổi, bổ sung một số điều của NĐ 132/2020/NĐ-CP về quản lý thuế đối với doanh nghiệp có giao dịch liên kết, hiệu lực 27/03/2025.",
+    "effectiveDate": "2025-03-27",
+    "docType": "Nghị định",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd252",
+    "title": "NĐ 252/2026/NĐ-CP — Hướng dẫn thi hành Luật Quản lý thuế",
+    "shortTitle": "NĐ 252/2026",
+    "description": "Quy định chi tiết thi hành Luật Quản lý thuế 108/2025: đăng ký thuế, khai thuế, ấn định thuế, hoàn thuế, khoanh/xóa nợ, cưỡng chế thi hành quyết định hành chính, hiệu lực 01/07/2026.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "tt87",
+    "title": "TT 87/2026/TT-BTC — Hướng dẫn thi hành Luật Thuế TNCN",
+    "shortTitle": "TT 87/2026",
+    "description": "Hướng dẫn chi tiết Luật Thuế TNCN 109/2025 và NĐ 253/2026/NĐ-CP, hiệu lực 01/07/2026.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế TNCN"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "luat-59",
+    "title": "Luật 59/2020/QH14 — Luật Doanh nghiệp",
+    "shortTitle": "Luật 59/2020",
+    "description": "Luật Doanh nghiệp hiện hành, hiệu lực 01/01/2021. Thành lập DN, công ty TNHH, công ty cổ phần, công ty hợp danh, DNTN, DNNN, tổ chức lại/giải thể/phá sản.",
+    "effectiveDate": "2021-01-01",
+    "docType": "Luật",
+    "categories": [
+      "Khác"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nq110",
+    "title": "NQ 110/2025/UBTVQH15 — Điều chỉnh mức giảm trừ gia cảnh TNCN",
+    "shortTitle": "NQ 110/2025",
+    "description": "Điều chỉnh mức giảm trừ gia cảnh thuế TNCN: 15,5 triệu đồng/tháng cho người nộp thuế, 6,2 triệu đồng/tháng cho mỗi người phụ thuộc, áp dụng từ kỳ tính thuế 2026. Thay thế NQ 954/2020/UBTVQH14.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Khác",
+    "categories": [
+      "Thuế TNCN"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "nd126",
+    "title": "NĐ 126/2020/NĐ-CP — Quy định chi tiết một số điều của Luật Quản lý thuế",
+    "shortTitle": "NĐ 126/2020",
+    "description": "Nghị định quy định chi tiết thi hành Luật Quản lý thuế 38/2019, hiệu lực 05/12/2020. Kê khai, ấn định thuế, hoàn thuế, quản lý thuế đối với hộ/cá nhân kinh doanh, hoạt động thương mại điện tử.",
+    "effectiveDate": "2020-12-05",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế TNDN",
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "nd91",
+    "title": "NĐ 91/2022/NĐ-CP — Sửa đổi, bổ sung NĐ 126/2020 (quản lý thuế)",
+    "shortTitle": "NĐ 91/2022",
+    "description": "Sửa đổi, bổ sung một số điều của NĐ 126/2020/NĐ-CP quy định chi tiết một số điều của Luật Quản lý thuế, hiệu lực kể từ ngày ký ban hành (30/10/2022).",
+    "effectiveDate": "2022-10-30",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế TNDN"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "tt80",
+    "title": "TT 80/2021/TT-BTC — Hướng dẫn Luật Quản lý thuế & NĐ 126/2020",
+    "shortTitle": "TT 80/2021",
+    "description": "Hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định 126/2020/NĐ-CP, hiệu lực 01/01/2022. Hồ sơ khai thuế, ấn định thuế, hoàn thuế, quản lý thuế đối với hoạt động kinh doanh xuyên biên giới.",
+    "effectiveDate": "2022-01-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế TNCN",
+      "Quản lý thuế",
+      "Thuế TTĐB",
+      "Thuế Nhà thầu (FCT)"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "tt103",
+    "title": "TT 103/2014/TT-BTC — Thuế nhà thầu nước ngoài (FCT)",
+    "shortTitle": "TT 103/2014",
+    "description": "Hướng dẫn thực hiện nghĩa vụ thuế áp dụng đối với tổ chức, cá nhân nước ngoài kinh doanh tại Việt Nam hoặc có thu nhập tại Việt Nam, hiệu lực 01/10/2014. Thuế GTGT, TNDN đối với nhà thầu nước ngoài.",
+    "effectiveDate": "2014-10-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế Nhà thầu (FCT)"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "luat03",
+    "title": "Luật 03/2022/QH15 — Sửa đổi, bổ sung một số điều 9 luật (Đầu tư công, PPP, Đầu tư, Nhà ở, Đấu thầu, Điện lực, Doanh nghiệp, Thuế TTĐB, Thi hành án dân sự)",
+    "shortTitle": "Luật 03/2022",
+    "description": "Sửa đổi, bổ sung một số điều của 9 luật, hiệu lực 01/03/2022. Điều 7 sửa Luật Doanh nghiệp; Điều 8 sửa Biểu thuế Tiêu thụ đặc biệt tại Luật Thuế TTĐB.",
+    "effectiveDate": "2022-03-01",
+    "docType": "Luật",
+    "categories": [
+      "Thuế TTĐB"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "luat-107",
+    "title": "Luật 107/2016/QH13 — Luật Thuế xuất khẩu, thuế nhập khẩu",
+    "shortTitle": "Luật 107/2016",
+    "description": "Luật Thuế xuất khẩu, thuế nhập khẩu, hiệu lực 01/09/2016. Đối tượng chịu thuế, căn cứ tính thuế, thuế chống bán phá giá, chống trợ cấp, tự vệ, miễn/giảm/hoàn thuế XNK. Thay thế Luật Thuế XNK 45/2005.",
+    "effectiveDate": "2016-09-01",
+    "docType": "Luật",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "nd255",
+    "title": "NĐ 255/2026/NĐ-CP — Quản lý thuế đối với Giao dịch Liên kết",
+    "shortTitle": "NĐ 255/2026",
+    "description": "Quy định quản lý thuế đối với giao dịch liên kết: xác định bên liên kết, phương pháp xác định giá GDLK, chi phí lãi vay ≤30% EBITDA, Hồ sơ xác định giá GDLK, Báo cáo lợi nhuận liên quốc gia. Thay thế NĐ 132/2020 và NĐ 20/2025, hiệu lực 01/07/2026, áp dụng từ kỳ tính thuế TNDN 2026.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Nghị định",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "nd273",
+    "title": "NĐ 273/2026/NĐ-CP — Kinh doanh hàng miễn thuế",
+    "shortTitle": "NĐ 273/2026",
+    "description": "Quy định quản lý, thủ tục, kiểm tra, giám sát hải quan đối với hoạt động kinh doanh hàng miễn thuế (cửa hàng/kho miễn thuế tại sân bay, cảng biển, cửa khẩu, bán trên tàu bay/tàu biển quốc tế). Thay thế toàn bộ NĐ 100/2020/NĐ-CP, hiệu lực 21/08/2026.",
+    "effectiveDate": "2026-08-21",
+    "docType": "Nghị định",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 4
+  },
+  {
+    "slug": "tt90",
+    "title": "TT 90/2026/TT-BTC — Quy định về đăng ký thuế",
+    "shortTitle": "TT 90/2026",
+    "description": "Hướng dẫn chi tiết đăng ký thuế theo Điều 10, 11 Luật Quản lý thuế 108/2025 và NĐ 252/2026: cấu trúc mã số thuế, thủ tục đăng ký lần đầu/thay đổi thông tin/tạm ngừng/chấm dứt/khôi phục MST cho tổ chức, hộ kinh doanh, cá nhân. Thay thế TT 86/2024/TT-BTC, hiệu lực 01/07/2026.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Quản lý thuế",
+      "HKD, CNKD"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "tt21",
+    "title": "TT 21/2026/TT-BTC — Sửa đổi, bổ sung một số điều của Thông tư số 80/2021/TT-BTC",
+    "shortTitle": "TT 21/2026",
+    "description": "Sửa đổi Điều 59 (hồ sơ miễn/giảm tiền thuê đất), khoản 2 Điều 82 (kinh phí ủy nhiệm thu) TT 80/2021; thay thế Mẫu 02/TNDN và Mẫu 05/TNDN; bãi bỏ Điều 60 TT 80/2021. Hiệu lực 17/03/2026.",
+    "effectiveDate": "2026-03-17",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế TNDN",
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "tt74",
+    "title": "TT 74/2026/TT-BTC — Phí, lệ phí trong lĩnh vực năng lượng nguyên tử",
+    "shortTitle": "TT 74/2026",
+    "description": "Quy định người nộp phí/lệ phí, tổ chức thu, mức thu, chế độ thu-nộp đối với phí thẩm định an toàn phóng xạ/bức xạ/hạt nhân, lệ phí cấp chứng chỉ nhân viên bức xạ/hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử. Thay thế TT 287/2016 và TT 116/2021, hiệu lực 10/08/2026.",
+    "effectiveDate": "2026-08-10",
+    "docType": "Thông tư",
+    "categories": [
+      "Khác"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 1
+  },
+  {
+    "slug": "tt85",
+    "title": "TT 85/2026/TT-BTC — Phân loại hàng hóa, phân tích để phân loại hàng hóa xuất khẩu, nhập khẩu",
+    "shortTitle": "TT 85/2026",
+    "description": "Quy định phân loại, phân tích để phân loại hàng hóa XNK; xây dựng, sử dụng cơ sở dữ liệu Danh mục hàng hóa XNK Việt Nam; nguyên tắc phân loại, phân loại máy liên hợp/tổ hợp máy, hồ sơ yêu cầu phân tích. Thay thế TT 14/2015 và TT 17/2021, hiệu lực 15/09/2026.",
+    "effectiveDate": "2026-09-15",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "tt86",
+    "title": "TT 86/2026/TT-BTC — Quy định về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu",
+    "shortTitle": "TT 86/2026",
+    "description": "Quy định quản lý thuế đối với hàng hóa XNK: đăng ký, khai, tính thuế; hoàn thuế; kiểm tra lại; xác nhận hoàn thành nghĩa vụ nộp thuế. Bãi bỏ một phần TT 38/2015, TT 39/2018 và TT 121/2025, hiệu lực 01/07/2026.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế XNK",
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 5
+  },
+  {
+    "slug": "tt91",
+    "title": "TT 91/2026/TT-BTC — Quy định một số điều của Luật Quản lý thuế và Nghị định số 254/2026/NĐ-CP về hóa đơn điện tử, chứng từ điện tử",
+    "shortTitle": "TT 91/2026",
+    "description": "Quy định chi tiết khoản 4, 7 Điều 26, khoản 3, 5 Điều 27 Luật Quản lý thuế: đăng ký sử dụng, định dạng, xử lý hóa đơn/chứng từ điện tử; ký hiệu mẫu số, ký hiệu hóa đơn; cấp hóa đơn theo từng lần phát sinh. Gồm 5 Phụ lục (I–IV bắt buộc, V tham khảo), hiệu lực 01/07/2026.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "tt94",
+    "title": "TT 94/2026/TT-BTC — Quy định về quản lý tuân thủ, quản lý rủi ro trong quản lý thuế",
+    "shortTitle": "TT 94/2026",
+    "description": "Quy định đánh giá, phân loại mức độ tuân thủ pháp luật thuế và mức độ rủi ro của NNT; Phân hệ quản lý tuân thủ và rủi ro thuế hỗ trợ cơ quan thuế trong đăng ký thuế, kiểm tra hồ sơ khai thuế, hoàn thuế, quản lý nợ, cưỡng chế. Thay thế TT 31/2021/TT-BTC, hiệu lực 01/07/2026.",
+    "effectiveDate": "2026-07-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 3
+  },
+  {
+    "slug": "tt96",
+    "title": "TT 96/2026/TT-BTC — Sửa đổi, bổ sung một số điều của Thông tư số 67/2023/TT-BTC hướng dẫn Luật Kinh doanh bảo hiểm",
+    "shortTitle": "TT 96/2026",
+    "description": "Sửa đổi TT 67/2023/TT-BTC về dự phòng nghiệp vụ, tỷ lệ hoa hồng đại lý bảo hiểm theo 3 mốc thời gian, quản lý đại lý bảo hiểm cá nhân, doanh thu/chi phí doanh nghiệp bảo hiểm. Hiệu lực 02/07/2026 (riêng khoản 2 Điều 16, 17: từ 01/01/2027).",
+    "effectiveDate": "2026-07-02",
+    "docType": "Thông tư",
+    "categories": [
+      "Khác"
+    ],
+    "status": "available",
+    "hasForms": true,
+    "crossRefsCount": 0
+  },
+  {
+    "slug": "tt97",
+    "title": "TT 97/2026/TT-BTC — Bãi bỏ Thông tư số 55/2010/TT-BTC hướng dẫn về thuế GTGT và thuế TNDN đối với Đài truyền hình",
+    "shortTitle": "TT 97/2026",
+    "description": "Bãi bỏ toàn bộ TT 55/2010/TT-BTC hướng dẫn thuế GTGT, TNDN riêng cho Đài truyền hình Việt Nam và các Đài truyền hình, phát thanh truyền hình tỉnh/thành phố, do khung pháp lý GTGT/TNDN đã thay đổi. Hiệu lực kể từ ngày ký (06/07/2026).",
+    "effectiveDate": "2026-07-06",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế GTGT",
+      "Thuế TNDN"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "cv2927",
+    "title": "CV 2927/CT-CS — Thuế GTGT đối với sản phẩm xuất khẩu là tài nguyên, khoáng sản",
+    "shortTitle": "CV 2927/CT-CS",
+    "description": "Công văn của Cục Thuế trả lời Thuế tỉnh Gia Lai về xác định thuế suất GTGT (0% hay không) đối với sản phẩm xuất khẩu là đá granite, đá thạch anh nhân tạo — tiêu chí phân biệt \"tài nguyên, khoáng sản chưa chế biến\" và \"đã chế biến\" (ngưỡng tỷ trọng giá trị tài nguyên + năng lượng ≥51% giá thành). Ban hành 11/05/2026.",
+    "effectiveDate": "2026-05-11",
+    "docType": "Công văn",
+    "categories": [
+      "Thuế GTGT",
+      "Quản lý thuế"
+    ],
+    "status": "available",
+    "hasForms": false,
+    "crossRefsCount": 2
+  },
+  {
+    "slug": "soon-tt38",
+    "title": "TT 38/2015/TT-BTC — Thủ tục hải quan, thuế XNK",
+    "shortTitle": "TT 38/2015",
+    "description": "Thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, nhập khẩu và quản lý thuế hàng hóa XNK.",
+    "effectiveDate": "2015-04-01",
+    "docType": "Thông tư",
+    "categories": [
+      "Thuế XNK"
+    ],
+    "status": "coming-soon",
+    "hasForms": false,
+    "crossRefsCount": 0
+  },
+  {
+    "slug": "soon-nq204",
+    "title": "Nghị quyết 204/2025/QH15 — Giảm thuế GTGT",
+    "shortTitle": "NQ 204/2025",
+    "description": "Chính sách giảm thuế giá trị gia tăng.",
+    "effectiveDate": "2026-01-01",
+    "docType": "Khác",
+    "categories": [
+      "Thuế GTGT"
+    ],
+    "status": "coming-soon",
+    "hasForms": false,
+    "crossRefsCount": 0
+  }
+]
