@@ -1196,6 +1196,19 @@ html_template = f'''<!DOCTYPE html>
                 <div class="metric-lab">Điện tử hóa quy trình</div>
               </div>
             </div>
+
+            <!-- ACTION DOWNLOAD BUTTONS -->
+            <div class="hero-actions-row" style="margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+              <a href="./VBan/Th%C3%B4ng%20t%C6%B0%2089-2026/Th%C3%B4ng%20t%C6%B0%2089-2026%20-%20T%E1%BB%95ng%20h%E1%BB%A3p%20&%20Ph%C3%A2n%20t%C3%ADch.docx" download class="btn-hero-action" style="background:#ffffff; color:#1e3a8a; padding:9px 16px; border-radius:8px; font-weight:700; font-size:12.5px; text-decoration:none; display:inline-flex; align-items:center; gap:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+                <i class="fa-solid fa-file-word" style="color:#2563eb;"></i> Tải Bản Word (.docx)
+              </a>
+              <a href="./VBan/Th%C3%B4ng%20t%C6%B0%2089-2026/Th%C3%B4ng%20t%C6%B0%2089-2026%20-%20Danh%20m%E1%BB%A5c%20Bi%E1%BB%83u%20m%E1%BA%ABu%20&%20Th%E1%BB%A7%20t%E1%BB%A5c.xlsx" download class="btn-hero-action" style="background:rgba(255,255,255,0.18); border:1px solid rgba(255,255,255,0.3); color:#ffffff; padding:9px 16px; border-radius:8px; font-weight:700; font-size:12.5px; text-decoration:none; display:inline-flex; align-items:center; gap:6px; backdrop-filter:blur(4px);">
+                <i class="fa-solid fa-file-excel" style="color:#4ade80;"></i> Tải Danh mục Mẫu biểu (.xlsx)
+              </a>
+              <a href="./VBan/Th%C3%B4ng%20t%C6%B0%2089-2026/Ph%C3%A2n-t%C3%ADch-Th%C3%B4ng-t%C6%B0-89-2026.md" download class="btn-hero-action" style="background:rgba(255,255,255,0.18); border:1px solid rgba(255,255,255,0.3); color:#ffffff; padding:9px 16px; border-radius:8px; font-weight:700; font-size:12.5px; text-decoration:none; display:inline-flex; align-items:center; gap:6px; backdrop-filter:blur(4px);">
+                <i class="fa-solid fa-file-lines" style="color:#fbbf24;"></i> Xem Bản Markdown (.md)
+              </a>
+            </div>
           </div>
 
           <!-- FULL ARTICLES LIST -->
@@ -1499,8 +1512,16 @@ html_template = f'''<!DOCTYPE html>
 </html>
 '''
 
-output_html_path = r'D:\TIKTOK\KKhome - Update VBPL\VBan\index.html'
-with open(output_html_path, 'w', encoding='utf-8') as f:
-    f.write(html_template)
+output_paths = [
+    r'D:\TIKTOK\KKhome - Update VBPL\index.html',
+    r'D:\TIKTOK\KKhome - Update VBPL\VBan\index.html',
+    r'D:\TIKTOK\KKhome - Update VBPL\VBan\Thông tư 89-2026\index.html',
+    r'D:\TIKTOK\KKhome - Update VBPL\public\vbpl\thong-tu-89-2026\index.html'
+]
 
-print(f"Generated index.html successfully: {output_html_path} ({len(html_template):,} chars)")
+for p in output_paths:
+    os.makedirs(os.path.dirname(p), exist_ok=True)
+    with open(p, 'w', encoding='utf-8') as f:
+        f.write(html_template)
+    print(f"Generated successfully: {p} ({len(html_template):,} chars)")
+
